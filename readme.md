@@ -6,6 +6,7 @@
 
 - https://www.youtube.com/watch?v=pNPkVQD7vlM
 - https://www.youtube.com/watch?v=NdftnCDwKaU
+- https://watercss.kognise.dev/
 
 ## Programming languages
 
